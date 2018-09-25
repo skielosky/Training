@@ -1,2 +1,2 @@
-# Trainning
-Trainning
+# Training
+Training
