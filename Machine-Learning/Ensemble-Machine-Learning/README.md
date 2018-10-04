@@ -1,5 +1,5 @@
 Ensemble-Machine-Learning
 ========
-![alt text]("https://raw.githubusercontent.com/skielosky/Training/master/Machine-Learning/Ensemble-Machine-Learning/emsemble-machine-learning.png")
+![alt text](https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/bookretailers/V08125_low.png "Emsemble Machine Learning")
 
 Combine multiple machine learning algorithms to build models with higher accuracy.
