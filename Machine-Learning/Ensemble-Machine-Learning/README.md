@@ -4,4 +4,4 @@ Ensemble-Machine-Learning
 
 Combine multiple machine learning algorithms to build models with higher accuracy.
 
-[https://www.packtpub.com/big-data-and-business-intelligence/ensemble-machine-learning-techniques-video](packtpub.com)
+[packtpub.com](https://www.packtpub.com/big-data-and-business-intelligence/ensemble-machine-learning-techniques-video)
